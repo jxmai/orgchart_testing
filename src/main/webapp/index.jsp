@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Organization Chart Plugin</title>
+  <link rel="stylesheet" href="css/theme.css">
   <link rel="stylesheet" href="css/jquery.orgchart.css">
   <link rel="stylesheet" href="css/style.css">
   <style type="text/css">
